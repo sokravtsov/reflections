@@ -1,0 +1,4 @@
+- due to "diff" we can see changes between two files.
+- we can go back to previous version if we have some mistakes/bugs.
+- hz
+
